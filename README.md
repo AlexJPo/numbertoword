@@ -1,2 +1,3 @@
 # numbertoword
-Convertin number to word
+
+Перевод числе в строку.
